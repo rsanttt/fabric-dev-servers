@@ -54,7 +54,7 @@
     "sinon": "2.3.8"
   },
   "dependencies": {
-    "acorn": "5.1.2",
+    "acorn": "7.1.1",
     "axios": "0.17.1",
     "comment-parser": "0.4.0",
     "config": "1.24.0",
