@@ -210,7 +210,7 @@
         "istanbul-instrumenter-loader": "2.0.0",
         "jasmine-core": "2.6.4",
         "jasmine-spec-reporter": "4.1.0",
-        "jquery": "3.1.1",
+        "jquery": "3.5.0",
         "json-loader": "0.5.4",
         "jsonata": "1.2.2",
         "jszip": "3.1.3",
