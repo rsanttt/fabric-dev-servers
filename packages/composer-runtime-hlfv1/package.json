@@ -92,7 +92,7 @@
   "dependencies": {
     "composer-runtime": "0.20.10",
     "fabric-shim": "1.2.4",
-    "jsrsasign": "8.0.3",
+    "jsrsasign": "8.0.20",
     "request": "2.81.0"
   },
   "nyc": {
